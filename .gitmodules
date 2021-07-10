@@ -1,0 +1,3 @@
+[submodule "NLP-Exercises"]
+	path = NLP-Exercises
+	url = https://github.com/yhbyhb/NLP-Exercises.git
