@@ -1,3 +1,6 @@
 [submodule "NLP-Exercises"]
 	path = NLP-Exercises
 	url = https://github.com/yhbyhb/NLP-Exercises.git
+[submodule "projects/aind2-nlp-capstone"]
+	path = projects/aind2-nlp-capstone
+	url = https://github.com/yhbyhb/aind2-nlp-capstone
