@@ -4,3 +4,6 @@
 [submodule "projects/aind2-nlp-capstone"]
 	path = projects/aind2-nlp-capstone
 	url = https://github.com/yhbyhb/aind2-nlp-capstone
+[submodule "class_materials/3_communicating_with_natural_language/lesson3_speech_recognition/AIND-VUI-Lab-Voice-Data"]
+	path = class_materials/3_communicating_with_natural_language/lesson3_speech_recognition/AIND-VUI-Lab-Voice-Data
+	url = https://github.com/udacity/AIND-VUI-Lab-Voice-Data.git
