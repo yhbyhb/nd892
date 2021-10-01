@@ -7,3 +7,6 @@
 [submodule "class_materials/3_communicating_with_natural_language/lesson3_speech_recognition/AIND-VUI-Lab-Voice-Data"]
 	path = class_materials/3_communicating_with_natural_language/lesson3_speech_recognition/AIND-VUI-Lab-Voice-Data
 	url = https://github.com/udacity/AIND-VUI-Lab-Voice-Data.git
+[submodule "projects/DNN_Speech_Recognizer"]
+	path = projects/DNN_Speech_Recognizer
+	url = https://github.com/yhbyhb/DNN_Speech_Recognizer.git
